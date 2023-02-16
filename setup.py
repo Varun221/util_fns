@@ -8,7 +8,7 @@ setup(
     author_email='',
     packages=['util_fns'],
     # Needed for dependencies
-    install_requires=['matplotlib'],
+    install_requires=['matplotlib', 'pandas', 'tqdm'],
     # *strongly* suggested for sharing
     version='0.1',
     # The license can be anything you like
