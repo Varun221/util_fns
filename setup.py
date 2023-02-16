@@ -15,5 +15,5 @@ setup(
     license='MIT',
     description='utility functions useful for day-to-day work',
     # We will also need a readme eventually (there will be a warning)
-    # long_description=open('README.txt').read(),
+    # long_description=open('README.txt').read(),d
 )
