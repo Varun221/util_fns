@@ -1,1 +1,1 @@
-from easy_functions import *
+from .easy_functions import *
