@@ -6,7 +6,7 @@ setup(
     url='https://github.com/jladan/util_fns',
     author='YV',
     author_email='',
-    packages=['utils'],
+    packages=['util_fns'],
     # Needed for dependencies
     install_requires=['matplotlib'],
     # *strongly* suggested for sharing
